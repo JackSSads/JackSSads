@@ -1,6 +1,6 @@
 ### Saudações, terráqueos 👽🖖
 
-### Aqui quem vos fala é <a href="https://www.linkedin.com/in/jackson-souza-ads/"><i>Jackson Souza</i></a>, habitante de Vênus.
+### Aqui quem vos fala é <a href="https://www.linkedin.com/in/jackson-souza-ads/" target="_blank"><i>Jackson Souza</i></a>, habitante de Vênus.
 
 - 🔭 Hoje estou fazendo pequenos projetos com back-end
 - 🌱 Estudando JavaScrip, Node.JS e ORM Sequelize
