@@ -1,6 +1,6 @@
 ### Saudações, terráqueos 👽🖖
 
-### Aqui quem vos fala é Jackson Souza, habitante de Vênus.
+### Aqui quem vos fala é <a href="https://www.linkedin.com/in/jackson-souza-ads/"><i>Jackson Souza</i></a>, habitante de Vênus.
 
 - 🔭 Hoje estou fazendo pequenos projetos com back-end
 - 🌱 Estudando JavaScrip, Node.JS e ORM Sequelize
@@ -27,9 +27,10 @@
   <a href="https://instagram.com/jackssads/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jackson-souza-ads/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<!--
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)  
--->
+</div>
+  
+<div align="center">
+  
+  ![Snake animation](https://github.com/JackSSads/JackSSads/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
