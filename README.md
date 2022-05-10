@@ -30,7 +30,7 @@
 </div>
   
 <div align="center">
-  
+  <!--
   ![Snake animation](https://github.com/JackSSads/JackSSads/blob/output/github-contribution-grid-snake.svg)
-  
+  -->
 </div>
