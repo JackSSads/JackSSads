@@ -1,9 +1,14 @@
-### Saudações, terráqueos 👽🖖
+<div align="center"><strong>Saudações, terráqueos 👽🖖</strong></div>
+<div align="center">
+  
+<strong>Aqui quem vos fala é <a href="https://www.linkedin.com/in/jackson-souza-ads/" target="_blank"><i>Jackson Souza</i></a>.</strong>
+</div>
 
-### Aqui quem vos fala é <a href="https://www.linkedin.com/in/jackson-souza-ads/" target="_blank"><i>Jackson Souza</i></a>, habitante de Vênus.
-
-- 🔭 Hoje estou fazendo pequenos projetos com back-end
-- 🌱 Estudando JavaScrip, Node.JS e ORM Sequelize
+<div align="center">
+- 🔭 Hoje estou fazendo pequenos projetos com back-end<br>
+- 🌱 Estudando C#, JavaScrip, Node.JS e ORM Sequelize<br>
+- 
+</div>
 
 #
 
@@ -12,13 +17,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JackSSads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackSSads&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+ 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Jack-Node.Js" height="30" width="30" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/node-js.png">
+  <img align="center" alt="Jack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jack-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jack-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jack-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Jack-Handlebars" height="30" width="40" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/handlebars.png">
 </div>
   
   ##
