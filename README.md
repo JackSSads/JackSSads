@@ -7,7 +7,6 @@
 <div align="center">
 - 🔭 Hoje estou fazendo pequenos projetos com back-end<br>
 - 🌱 Estudando C#, JavaScrip, Node.JS e ORM Sequelize<br>
-- 
 </div>
 
 #
