@@ -41,8 +41,5 @@
 </div>
   
 <div align="center">
-  <!--<img align="center" alt="" height="140" width="180" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/1606410769830.gif">
-  
-  ![Snake animation](https://github.com/JackSSads/JackSSads/blob/output/github-contribution-grid-snake.svg)
-  -->
+  ![Snake animation](https://github.com/mard145/mard145/blob/output/github-contribution-grid-snake.svg)
 </div>
