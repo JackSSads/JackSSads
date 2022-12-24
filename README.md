@@ -8,7 +8,7 @@
 
 <div align="center">
 - 🔭 Hoje estou fazendo pequenos projetos com back-end<br>
-- 🌱 Estudando C#, JavaScrip, Node.JS e ORM Sequelize<br>
+- 🌱 Estudando JavaScrip, NodeJS, ReactJs e NextJs<br>
 </div>
 
 #
