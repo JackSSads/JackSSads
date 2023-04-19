@@ -21,14 +21,14 @@
 </div>
  
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Jack-Node.Js" height="30" width="30" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/node-js.png">
+  <img align="center" alt="Jack-Node.Js" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Jack-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jack-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Jack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jack-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jack-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jack-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jack-Handlebars" height="30" width="40" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/mysql.png">
-  <img align="center" alt="Jack-Handlebars" height="30" width="40" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/mongodb.png">
+  <img align="center" alt="Jack-MySQL" height="30" width="40" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/mysql.png">
+  <img align="center" alt="Jack-MongoDB" height="30" width="40" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/mongodb.png">
   <img align="center" alt="Jack-Handlebars" height="30" width="40" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/handlebars.png">
 </div>
   
