@@ -13,12 +13,13 @@
 </div>
 
 #
-
+<!-
 <div align="center">
   <a href="https://github.com/JackSSads">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JackSSads&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackSSads&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jack-Node.Js" height="30" width="30" src="https://github.com/JackSSads/JackSSads/blob/main/.github/workflows/node-js.png">
