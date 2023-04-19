@@ -8,7 +8,7 @@
 
 <div align="center">
   - 🔭 Hoje estou fazendo pequenos projetos <strong><ins>Full Stack</ins></strong><br>
-- ✨ Sou apaixonada pelo Back-end, mas no meu ❤ sempre terá um lugazinho reservado para o Front-end 💞<br>
+- ✨ Sou apaixonado pelo Back-end, mas no meu ❤ sempre terá um lugazinho reservado para o Front-end 💞<br>
 - 🌱 Estudando JavaScrip, NodeJS, ReactJs e NextJs<br>
 </div>
 
