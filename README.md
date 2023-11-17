@@ -3,13 +3,12 @@
 </div>
 
 <div align="center">
-  <h3>Aqui quem vos fala é <a href="https://www.linkedin.com/in/jackson-souza-ads/">Jackson Souza</a>.</h3>
+  <h3>Me chamo <a href="https://www.linkedin.com/in/jackson-souza-ads/">Jackson Souza</a>.</h3>
 </div>
 
 <div align="center">
   <p>🔭 Hoje estou fazendo pequenos projetos <strong>Full Stack</strong></p>
-  <p>✨ Sou apaixonado pelo Back-end, mas no meu ❤ sempre terá um lugazinho reservado para o Front-end 💞</p>
-  <p>🌱 Estudando JavaScript, Node.js, React.js e Next.js</p>
+  <p>🌱 Estudando JavaScript, Node.js, React.js</p>
 </div>
 
 <div align="center">
