@@ -23,8 +23,6 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/JackSSads/JackSSads/f29668a7fdc91c3c3f6791582d831c2062862e8b/hand-coding-animate.svg?token=AYVPGPAGIA3O65IGXU2XFZDFUP6CU" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 #### 🔲 Secundária:
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
