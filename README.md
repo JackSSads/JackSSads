@@ -3,9 +3,8 @@
 
 <p align="center">
  ❉ <strong>Sou um entusiasta da tecnologia, apaixonado por superar desafios.</strong> ❉
- <br>
- 
-Atuo como desenvolvedor focado em <strong>criação de sistemas web voltado para e-commerce e automação de processos</strong>.</p>&nbsp;
+ <br><br>
+ Atuo como desenvolvedor focado em <strong>criação de sistemas web voltado para e-commerce e automação de processos</strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JackSSads&theme=radical&mode=weekly"/>
