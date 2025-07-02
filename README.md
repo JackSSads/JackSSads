@@ -59,3 +59,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jackson-souza-ads/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/JackSSads)
 [![E-mail](https://img.shields.io/badge/-E--mail-d14836?style=flat&logo=gmail&logoColor=white)](mailto:contatojacksonsouza@hotmail.com)
+
+---
+
+### 🐍 Snake de Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JackSSads/JackSSads/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
